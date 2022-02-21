@@ -5,7 +5,7 @@
   </head>
   <body>
 	<h1> Vegetarian Rice </h1>
-	<img src="VegetableRice.jpg" width= 450 height= 300 alt="Vegetarian Rice">
+	<img src="VegetarianRice.jpg" width= 450 height= 300 alt="Vegetarian Rice">
     <h2> Ingredients </h2>
 <ul>
 	<li> <p>1/2 chopped onion </p> </li>
