@@ -5,13 +5,13 @@
         <ul>
         <body>
         <a href="index.php"><li>Home</li></a>
-        <a href="BasicPasta.html"><li>Basic Pasta</li></a>
-        <a href="BeefInBeer.html"><li>Beef in Beer</li></a>
-        <a href="ChiliConCarne.html"><li>Chili Con Carne</li></a>
-        <a href="EggFriedRice.html"><li>Egg Fried Rice</li></a>
-        <a href="PineappleChicken.html"><li>Pineapple Chicken</li></a>
-        <a href="SalmonInTheOven.html"><li>Salmon in the Oven</li></a>
-        <a href="VegetableRice.html"><li>Vegetarian Rice</li></a>
+        <a href="BasicPasta.php"><li>Basic Pasta</li></a>
+        <a href="BeefInBeer.php"><li>Beef in Beer</li></a>
+        <a href="ChiliConCarne.php"><li>Chili Con Carne</li></a>
+        <a href="EggFriedRice.php"><li>Egg Fried Rice</li></a>
+        <a href="PineappleChicken.php"><li>Pineapple Chicken</li></a>
+        <a href="SalmonInTheOven.php"><li>Salmon in the Oven</li></a>
+        <a href="VegetarianRice.php"><li>Vegetarian Rice</li></a>
         </ul>
         </body>
 
