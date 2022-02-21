@@ -5,7 +5,7 @@
         <ul>
         <body>
         <a href="index.php"><li>Home</li></a>
-        <a href="Basic Pasta.php"><li>Basic Pasta</li></a>
+        <a href="BasicPasta.html"><li>Basic Pasta</li></a>
         <a href="BeefInBeer.html"><li>Beef in Beer</li></a>
         <a href="ChiliConCarne.html"><li>Chili Con Carne</li></a>
         <a href="EggFriedRice.html"><li>Egg Fried Rice</li></a>
