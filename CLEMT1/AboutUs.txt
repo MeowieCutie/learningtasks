@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Us </title>
+</head>
+	 <link rel="stylesheet" type="text/css" href="AboutUs.css"/>
+	 <div class="title">
+	 <body><h1>About Us<h1></body>
+	 </div>
+		<a href="Poverty.html">Home</a>
+		<a href="Action.html">Actions</a>
+		<a href="Gallery.html">Gallery</a>
+		<a href="AboutUs.html">About Us</a>
+		<hr />
+		<h2><div class="title2">Mission</h2>
+		</div>
+		<p> 
+		Our mission is to provide the basic needs of those, who can not provide for themselves (or are not provided for by other means) and help them to become self-reliant and lead a decent life in dignity. The goal is, that these communities can continue to provide for their own population and children in health and education.
+		<br>
+		
+</html>
