@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Poverty </title>
+</head> 
+    <link rel="stylesheet" type="text/css" href="Style.css"/>
+    <div class="title">
+    <body><h1>Poverty</h1></body>
+    </div>
+		<ul>
+			<li><a href="Poverty.html">Home</a></li>
+			<li><a href="Action.html">Actions</a></li>
+			<li><a href="Gallery.html">Gallery</a></li>
+			<li><a href="AboutUs.html">About Us</a></li>
+		</ul>
+        <hr />
+		<div class ="container">
+			<div class="card">
+    <h2> <div class="title2"> What is Poverty? </div></h2>
+        <p> Poverty is the condition of a person when he cannot fulfill his basic necessities of life such as food, clothing, and shelter. We can define poverty as the condition where the basic needs of a family, like food, shelter, clothing, and education are not fulfilled. It can lead to other problems like poor literacy, unemployment, malnutrition, etc. A poor person is not able to get an education due to a lack of money and therefore remains unemployed. An unemployed person is not able to buy enough & nutritious food for his family and their health decline. A weak person lacks the energy required for the job. A jobless person remains poor only. Thus we can say that poverty is the root cause of other problems. Poverty is the state of not having enough material possessions or income for a person's basic needs. Poverty may include social, economic, and political elements. 
+        <br><br> 
+			</div>
+		</div>
+		<div class ="container1">
+			<div class="card1">
+        <div class="bg"> <h2> Background </h2>
+		</div>
+		</p>
+		<p> 
+        <br>
+        Poverty and inequality in the Philippines remains a challenge. In the past 4 decades, the proportion of households living below the official poverty line has declined slowly and unevenly.Economic growth has gone through boom and bust cycles, and recent episodes of moderate economic expansion have had limited impact on the poor. Great inequality across income brackets, regions, and sectors, as well as unmanaged population growth, are considered some of the key factors constraining poverty reduction efforts.
+        <br><br>
+        Despite a declining poverty rate in recent years, 21.6 percent of the country’s population still live below the national poverty line. Rural areas in the Philippines show a poverty rate of 36 percent in comparison with the 13 percent of urban areas.
+        <br><br>
+        The first six months of last year saw 3.9 million more Filipinos pushed into poverty, with economic officials laying the blame squarely on pandemic-related lockdown measures, job losses, cuts in household consumption, and forced business closures. Poverty in the country grew to 23.7%, against 21.1% in the same six-month period in 2018, Channel News Asia reports. The number of Filipinos in poverty has now risen to over 26 million, just under 25% of the population. 
+        <br><br>
+        Despite the increasing number of poor Filipinos, the government says it is still on track to meet its poverty reduction targets.
+        <br><br>
+        Socioeconomic Planning Secretary Karl Kendrick Chua said the nation's poverty incidence rate goal for 2022 — the proportion of Filipinos whose per capita income is insufficient to meet basic food and non-food needs —  will remain at 15.5% to 17.5%.
+        <br><br>
+        By 2040, the government hopes to achieve zero poverty nationwide. "So far, we are sticking to this target," Chua said, according to the Manila Times. “There are 3.9 million more poor, so we have to work hard to at least bring them out of poverty. We end this year on track to an early recovery. Our growth prospects are encouraging. As we collectively strive toward our 2040 vision, the poor will be at the centre of our recovery and development strategy. </p> 
+			</div>
+		</div>
+</html>

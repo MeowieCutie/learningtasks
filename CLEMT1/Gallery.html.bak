@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Gallery </title>
+</head>
+	 <link rel="stylesheet" type="text/css" href="Gallery.css"/>
+	 <div class="title">
+	 <body><h1>Gallery<h1></body>
+	 </div>
+		<ul>
+			<li><a href="Poverty.html">Home</a></li>
+			<li><a href="Action.html">Actions</a></li>
+			<li><a href="Gallery.html">Gallery</a></li>
+			<li><a href="AboutUs.html">About Us</a></li>
+		</ul>
+		<hr />
+		<h2><div class="title2">Poverty in the Philippines</h2>
+		</div>
+		<div class="row">
+		<div class="column">
+			<img src="pov1.jpg">
+			<img src="pov2.jpeg">
+			<img src="pov3.jpg">
+			<img src="pov4.jpg">
+			<img src="pov5.jpg">
+			<img src="pov6.jpg">
+		</div>
+		<div class="column">
+			<img src="pov7.jpg">
+			<img src="pov8.jpg">
+			<img src="pov9.jpg">
+			<img src="pov10.jpg">
+			<img src="pov11.jpg">
+			<img src="pov12.jpg">
+		</div>
+		</div>
+
+
+
+
+
+
+
+
+</html>

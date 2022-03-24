@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Actions </title>
+</head>
+	 <link rel="stylesheet" type="text/css" href="Actions.css"/>
+	 <div class="title">
+	 <body><h1>Actions against Poverty<h1></body>
+	 </div>
+		<ul>
+			<li><a href="Poverty.html">Home</a></li>
+			<li><a href="Action.html">Actions</a></li>
+			<li><a href="Gallery.html">Gallery</a></li>
+			<li><a href="AboutUs.html">About Us</a></li>
+		</ul>
+			<hr />
+			<div class ="container">
+			<div class="card">
+		<h2><div class="titleaction">How to stop Poverty? </div> </h2>
+        <p> As of 2015, 22 million Filipinos are still living in the depths of poverty. That equates to one-fifth of the population. Poverty presents itself in a vicious cycle affecting mainly the uneducated population who tend to live in large family units. These family units usually have only one head of the household who provides income for the entire family. The Filipino government is actively trying to speed up its poverty reduction plan. Their long-term goal is to be able to provide more economic prospects, which in turn would help many of their citizens earn a higher and more stable income. A report by the World Bank shows how this economic growth helped decline the rate of poverty. Poverty in the Philippines dropped by 26.6 percent in 2006 to 21.6 percent in 2015.
+        <br>
+		<div class ="container1">
+			<div class="card1">
+		<h2><div class="titleaction1"> Solutions </div> </h2>
+		<p>
+        <b> <i> 1. Birth Control </i> </b>
+        <br>
+		Providing birth control is a powerful tool for families who now have full control over family planning. The hope is by giving the women and family units more control, they will have fewer children. This, in turn, will mean that families can provide more responsibly.  This new policy will help the government reach its goal of reducing poverty by 13 percent by 2022.
+        <br>
+		<b> <i> 2. Develop and Implement Rapid and Sustained Economic Growth Policies and Programs.</i> </b>
+        <br> 
+		In areas such as health, education, nutrition and sanitation, allowing the poor to participate and contribute to the growth. Studies show that a 10 percent increase in a country’s average income reduces poverty by as much as 20-30 percent.
+        <br>
+		<b> <i> 3. Improve management of water and other natural resources. </i> </b>
+        <br>
+		Most of the rural poor depend on agriculture or other natural resources for their livelihood. Consequently, it is necessary that they have more equitable access to those resources so they are better able to manage their resources.
+        <br>
+		<b> <i> 4. Empower people living in poverty. </i> </b>
+        <br>
+		By involving them in the development and implementation of plans and programs to reduce and eradicate poverty. Their involvement ensures that programs reflect those things that are important to them.
+        <br>
+		<b> <i> 5. Provide access to technology and innovation. </i> </b>
+		Including internet access and affordable energy. In Bangladesh, only 40 percent of the rural poor have access to grid electricity. Those that do have access endure frequent power outages. The Second Rural Electrification and Renewable Energy Development Project plans to increase access to electricity in rural areas via renewable energy sources.
+        <br>
+		</p>
+			</div>
+		</div>
+
+</html>

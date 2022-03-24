@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Us </title>
+</head>
+	 <link rel="stylesheet" type="text/css" href="AboutUs.css"/>
+	 <div class="title">
+	 <body><h1>About Us<h1></body>
+	 </div>
+		<ul>
+			<li><a href="Poverty.html">Home</a></li>
+			<li><a href="Action.html">Actions</a></li>
+			<li><a href="Gallery.html">Gallery</a></li>
+			<li><a href="AboutUs.html">About Us</a></li>
+		</ul>
+		<hr />
+		<div class ="container">
+			<div class="card">
+		<h2><div class="m">Mission</h2>
+		<p> 
+		Our mission is to provide the basic needs of those, who can not provide for themselves (or are not provided for by other means) and help them to become self-reliant and lead a decent life in dignity. The goal is, that these communities can continue to provide for their own population and children in health and education.
+		</p>
+			</div>
+		</div>
+		<div class ="container1">
+			<div class="card1">
+		<h2> <div class="v"> Vision </h2>
+		</div>
+		<p> 
+		Our vision is to end the poverty in the country by 2040. Vision states that by 2040 the Philippines will be a prospeous, predominantly middle-class society where no one is poor.
+		</p>
+			</div>
+		</div>
+</html>
