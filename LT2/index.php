@@ -5,7 +5,7 @@
   <body>
   <ul>
       <li><a href="index.php">HOME</a></li>
-      <li><a href="Recipes.html">Learning Task 2</a></li>
+      <li><a href="Recipes.php">Learning Task 2</a></li>
     </ul>
   </body>
 
